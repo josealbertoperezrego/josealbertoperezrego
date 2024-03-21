@@ -1,8 +1,8 @@
 ## - 👋 Hi, I’m @josealbertoperezrego
 - 👀 I’m interested in ...
- Front-end, UX/UI Design, accessibility, AND MUCH MORE!!!
+ accessibility, integration, AND MUCH MORE!!!
 - 🌱 I’m currently learning ...
- HTML, CSS, JS, TS, Node, NEST, SQL, NOSQL, AND MUCH MORE!!!
+ TypeScript, Node/Nest, MySQL, React, Jira, Figma AND MUCH MORE!!!
 - 💞️ I’m looking to collaborate on ...
  Projects that are interested in working on accessibility to make the digital world easier for everyone.
 
